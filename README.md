@@ -1,5 +1,9 @@
 # flutter_basic_calulator
 
+Sample video
+
+https://user-images.githubusercontent.com/73890321/146410133-917ed951-de7c-4bf3-8f09-70b2835f6cd7.mp4
+
 A calculator app with basic functionalities
 
 ## Getting Started
